@@ -1,4 +1,4 @@
-# ZyCapstone
+#Clama Capstone
 
 config
   1. databaseConnector.php - MYSQLI OOP Database connection
